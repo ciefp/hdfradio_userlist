@@ -502,7 +502,7 @@
 #DESCRIPTION Radio Bihać
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.254.61.148%3a8152/;:Radio HIT Brčko
 #DESCRIPTION Radio HIT Brčko
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.skyradio.gr%3a8092/stream:Radio Cazin
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//195.222.33.217:8095/;stream.mp3:Radio Cazin
 #DESCRIPTION Radio Cazin
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream.master-dizajn.com/8030/stream:Radio Glas Drine Studio Onyx
 #DESCRIPTION Radio Glas Drine Studio Onyx
