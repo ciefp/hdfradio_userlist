@@ -1,5 +1,7 @@
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//217.17.97.1%3a18180:Bački Petrovac - Radio Petrovec 128
 #DESCRIPTION Bački Petrovac - Radio Petrovec 128
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream.iradio.pro/proxy/densomaniak?mp=/stream:DensoManiak
+#DESCRIPTION DensoManiak
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mastermedia.shoutca.st/proxy/prviradiosu?mp=/stream:Prvi Radio - Subotica
 #DESCRIPTION Prvi Radio - Subotica
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mastermedia.shoutca.st/proxy/prviradioue?mp=/stream:Prvi Radio - Užice
