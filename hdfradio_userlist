@@ -2,6 +2,8 @@
 #DESCRIPTION Bački Petrovac - Radio Petrovec 128
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream.iradio.pro/proxy/densomaniak?mp=/stream:DensoManiak
 #DESCRIPTION DensoManiak
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mastermedia.shoutca.st/proxy/prviradions?mp=/stream:Prvi Radio - Novi Sad
+#DESCRIPTION Prvi Radio - Novi Sad
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mastermedia.shoutca.st/proxy/prviradiosu?mp=/stream:Prvi Radio - Subotica
 #DESCRIPTION Prvi Radio - Subotica
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mastermedia.shoutca.st/proxy/prviradioue?mp=/stream:Prvi Radio - Užice
@@ -16,6 +18,32 @@
 #DESCRIPTION Prvi Radio - Trending
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mastermedia.shoutca.st/proxy/prvicafe?mp=/stream:Prvi Radio - Cafe
 #DESCRIPTION Prvi Radio - Cafe
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream.zeno.fm/m1w5khsk5a0uv:Novi Sad - Aleksandar Zabavni Radio
+#DESCRIPTION Novi Sad - Aleksandar Zabavni Radio
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream.zeno.fm/g1v8uq2a8a0uv:Novi Sad - Aleksandar Pop & Rock Radio
+#DESCRIPTION Novi Sad - Aleksandar Pop & Rock Radio
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream.zeno.fm/chnqtnsk5a0uv:Novi Sad - Aleksandar Folk Radio
+#DESCRIPTION Novi Sad - Aleksandar Folk Radio
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream.zeno.fm/ad9mp93m5a0uv:Novi Sad - Aleksandar Narodni Radio
+#DESCRIPTION Novi Sad - Aleksandar Narodni Radio
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream.zeno.fm/tzg6371rad0uv:Novi Sad - Aleksandar Narodni 2 Radio 
+#DESCRIPTION Novi Sad - Aleksandar Narodni 2 Radio
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream.zeno.fm/4c8qw5zu9c0uv:Novi Sad - Aleksandar Krajina Radio
+#DESCRIPTION Novi Sad - Aleksandar Krajina Radio
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//radio.dukahosting.com/8006/stream:Novi Sad - Radio 021
+#DESCRIPTION Novi Sad - Radio 021
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//centova.dukahosting.com/proxy/021kafe/stream:Novi Sad - Radio 021 Caffe
+#DESCRIPTION Novi Sad - Radio 021 Caffe
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//centova.dukahosting.com/proxy/021disco/stream:Novi Sad - Radio 021 Disco & Funk
+#DESCRIPTION Novi Sad - Radio 021 Disco & Funk
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//centova.dukahosting.com/proxy/021pop/stream:Novi Sad - Radio 021 Pop
+#DESCRIPTION Novi Sad - Radio 021 Pop
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//centova.dukahosting.com/proxy/021domaca/stream:Novi Sad - Radio 021 Rock
+#DESCRIPTION Novi Sad - Radio 021 Rock
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//centova.dukahosting.com/proxy/021domaca/stream:Novi Sad - Radio 021 Smooth & Sexi
+#DESCRIPTION Novi Sad - Radio 021 Smooth & Sexi
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream.zeno.fm/tsscn2wtzc9uv:Novi Sad - Đorđe Balašević Radio
+#DESCRIPTION Novi Sad - Đorđe Balašević Radio
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//planeta96-naxinacional.streaming.rs%3a8520/;*.mp3:Novi Sad - Planeta Novi Sad
 #DESCRIPTION Novi Sad - Planeta Novi Sad
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//212.200.230.50:1935/rns1/prviprogram/livestream/media_w941323896_32348.mp3:RTV Radio Novi Sad 1
@@ -36,14 +64,8 @@
 #DESCRIPTION Novi Sad - Radio 021
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hosting2.42netmedia.com%3a9308/RTI%20FM:Novi Sad - RTI FM
 #DESCRIPTION Novi Sad - RTI FM
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream.zeno.fm/g1v8uq2a8a0uv:Novi Sad - Aleksandar Pop & Rock Radio
-#DESCRIPTION Novi Sad - Aleksandar Pop & Rock Radio
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream.zeno.fm/chnqtnsk5a0uv:Novi Sad - Aleksandar Folk Radio
-#DESCRIPTION Novi Sad - Aleksandar Folk Radio
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.zeno.fm/4c8qw5zu9c0uv:Novi Sad - Aleksandar Krajina Radio
-#DESCRIPTION Novi Sad - Aleksandar Krajina Radio
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream.zeno.fm/ad9mp93m5a0uv:Novi Sad - Aleksandar Narodni Radio
-#DESCRIPTION Novi Sad - Aleksandar Narodni Radio
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//srv.mediastriming.com:8012/;:Novi Sad - Mis Radio
+#DESCRIPTION Novi Sad - Mis Radio
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rtsradio-live.morescreens.com/RTS_2_001/audio/chunklist.m3u8:Beograd - Beograd 1
 #DESCRIPTION Beograd - Beograd 1
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rtsradio-live.morescreens.com/RTS_2_002/audio/chunklist.m3u8:Beograd - Beograd 2
