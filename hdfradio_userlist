@@ -2,22 +2,6 @@
 #DESCRIPTION Bački Petrovac - Radio Petrovec 128
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream.iradio.pro/proxy/densomaniak?mp=/stream:DensoManiak
 #DESCRIPTION DensoManiak
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mastermedia.shoutca.st/proxy/prviradions?mp=/stream:Prvi Radio - Novi Sad
-#DESCRIPTION Prvi Radio - Novi Sad
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mastermedia.shoutca.st/proxy/prviradiosu?mp=/stream:Prvi Radio - Subotica
-#DESCRIPTION Prvi Radio - Subotica
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mastermedia.shoutca.st/proxy/prviradioue?mp=/stream:Prvi Radio - Užice
-#DESCRIPTION Prvi Radio - Užice
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mastermedia.shoutca.st/proxy/prvi90te?mp=/stream:Prvi Radio - 90te
-#DESCRIPTION Prvi Radio - 90te
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mastermedia.shoutca.st/proxy/prviyukolekcija?mp=/stream:Prvi Radio - YU Kolekcija
-#DESCRIPTION Prvi Radio - YU Kolekcija
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mastermedia.shoutca.st/proxy/prvikafanica?mp=/stream:Prvi Radio - Kafanica
-#DESCRIPTION Prvi Radio - Kafanica
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mastermedia.shoutca.st/proxy/prvitrending?mp=/stream:Prvi Radio - Trending
-#DESCRIPTION Prvi Radio - Trending
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mastermedia.shoutca.st/proxy/prvicafe?mp=/stream:Prvi Radio - Cafe
-#DESCRIPTION Prvi Radio - Cafe
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream.zeno.fm/m1w5khsk5a0uv:Novi Sad - Aleksandar Zabavni Radio
 #DESCRIPTION Novi Sad - Aleksandar Zabavni Radio
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream.zeno.fm/g1v8uq2a8a0uv:Novi Sad - Aleksandar Pop & Rock Radio
@@ -36,36 +20,16 @@
 #DESCRIPTION Novi Sad - Radio 021 Caffe
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//centova.dukahosting.com/proxy/021disco/stream:Novi Sad - Radio 021 Disco & Funk
 #DESCRIPTION Novi Sad - Radio 021 Disco & Funk
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//centova.dukahosting.com/proxy/021pop/stream:Novi Sad - Radio 021 Pop
-#DESCRIPTION Novi Sad - Radio 021 Pop
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//centova.dukahosting.com/proxy/021domaca/stream:Novi Sad - Radio 021 Rock
-#DESCRIPTION Novi Sad - Radio 021 Rock
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//centova.dukahosting.com/proxy/021domaca/stream:Novi Sad - Radio 021 Smooth & Sexi
 #DESCRIPTION Novi Sad - Radio 021 Smooth & Sexi
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream.zeno.fm/tsscn2wtzc9uv:Novi Sad - Đorđe Balašević Radio
 #DESCRIPTION Novi Sad - Đorđe Balašević Radio
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//planeta96-naxinacional.streaming.rs%3a8520/;*.mp3:Novi Sad - Planeta Novi Sad
 #DESCRIPTION Novi Sad - Planeta Novi Sad
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//212.200.230.50:1935/rns1/prviprogram/livestream/media_w941323896_32348.mp3:RTV Radio Novi Sad 1
-#DESCRIPTION RTV Radio Novi Sad 1
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//212.200.230.50:1935/rns2/drugiprogram/livestream/media_w277120236_32422.mp3:RTV Radio Novi Sad 2
-#DESCRIPTION RTV Radio Novi Sad 2
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//212.200.230.50:1935/rns3/treciprogram/livestream/media_w1236147851_32527.mp3:RTV Radio Novi Sad 3
-#DESCRIPTION RTV Radio Novi Sad 3
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dreamsiteradiocp2.com/proxy/rmserbia2?mp=/stream:Novi Sad - Radio Marija
 #DESCRIPTION Novi Sad - Radio Marija
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mastermedia.shoutca.st/proxy/radioasfm?mp=/stream:Novi Sad - Radio AS FM
-#DESCRIPTION Novi Sad - Radio AS FM
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.bucaradio.com%3a8080/:Novi Sad - Buca
 #DESCRIPTION Novi Sad - Buca
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//radio.dukahosting.com%3a7015/stream:Novi Sad - Delta Radio
-#DESCRIPTION Novi Sad - Delta Radio
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//radio.dukahosting.com/8006/stream:Novi Sad - Radio 021
-#DESCRIPTION Novi Sad - Radio 021
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hosting2.42netmedia.com%3a9308/RTI%20FM:Novi Sad - RTI FM
-#DESCRIPTION Novi Sad - RTI FM
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//srv.mediastriming.com:8012/;:Novi Sad - Mis Radio
-#DESCRIPTION Novi Sad - Mis Radio
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rtsradio-live.morescreens.com/RTS_2_001/audio/chunklist.m3u8:Beograd - Beograd 1
 #DESCRIPTION Beograd - Beograd 1
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rtsradio-live.morescreens.com/RTS_2_002/audio/chunklist.m3u8:Beograd - Beograd 2
@@ -82,8 +46,6 @@
 #DESCRIPTION Beograd - Radio OK
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.tdiradio.com%3a8000/yudance?type=.flv:Beograd - TDI Radio YU Euro Dance
 #DESCRIPTION Beograd - TDI Radio YU Euro Dance
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//109.206.96.11%3a8000/;stream.nsv:Beograd - Radio Top FM
-#DESCRIPTION Beograd - Radio Top FM
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//pink.exyuserver.com/;stream.nsv:Beograd - Radio Pink
 #DESCRIPTION Beograd - Radio Pink
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//nostalgie128.streaming.rs%3a9250/;stream.nsv:Beograd - Radio Nostalgija
@@ -96,16 +58,10 @@
 #DESCRIPTION Beograd - Radio Jat
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.radiolaguna.rs/laguna:Beograd - Radio Laguna
 #DESCRIPTION Beograd - Radio Laguna
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//novosti.radiostreaming.rs/novosti_1:Beograd - Radio Novosti
-#DESCRIPTION Beograd - Radio Novosti
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream.redradio.rs/stream:Beograd - Red Radio
 #DESCRIPTION Beograd - Red Radio
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mastermedia.shoutca.st/proxy/rockradio?mp=/stream:Beograd - Rock Radio
-#DESCRIPTION Beograd - Rock Radio
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//onair.superfm.rs/superfm.mp3:Beograd - Super FM
 #DESCRIPTION Beograd - Super FM
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//pink.exyuserver.com/;:Beograd - Pink Radio
-#DESCRIPTION Beograd - Pink Radio
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streaming.karolina.rs/karolina.mp3:Radio Karolina
 #DESCRIPTION Beograd - Radio Karolina
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5bc45691ca49f.streamlock.net/asmedia/radios/playlist.m3u8:Radio S1
@@ -236,8 +192,6 @@
 #DESCRIPTION Beograd - TDI
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.tdiradio.com%3a8000/chillout:TDI Chillout
 #DESCRIPTION Beograd - TDI Chillout
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.tdiradio.com%3a8000/classics:TDI Classics
-#DESCRIPTION Beograd - TDI Classics
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.tdiradio.com%3a8000/crnagora:TDI Crna Gora
 #DESCRIPTION Beograd - TDI Crna Gora
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.tdiradio.com%3a8000/domacica:TDI Domacica
@@ -248,14 +202,28 @@
 #DESCRIPTION Beograd - TDI Love
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.tdiradio.com%3a8000/top40:TDI Top 40
 #DESCRIPTION Beograd - TDI Top 40
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//176.9.59.144%3a8090/caribrod:Radio Caribrod
-#DESCRIPTION Radio Caribrod
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//176.9.59.144%3a8090/coolopovo:Radio Cool Opovo
-#DESCRIPTION Radio Cool Opovo
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//main.radiokosava.rs/stream::Košava Radio
+#DESCRIPTION Košava Radio
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//folk1.radiokosava.rs/;stream.mp3:Košava Folk1
+#DESCRIPTION Košava Folk1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//folk2.radiokosava.rs/;stream.mp3:Košava Folk2
+#DESCRIPTION Košava Folk2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//folk3.radiokosava.rs/;stream.mp3:Košava Folk3
+#DESCRIPTION Košava Folk3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rock.radiokosava.rs/;stream.mp3:Košava Rock
+#DESCRIPTION Košava Rock
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rap.radiokosava.rs/;stream.mp3:Košava Rap
+#DESCRIPTION Košava Rap
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cafe.radiokosava.rs/;stream.mp3:Košava Cafe
+#DESCRIPTION Košava Cafe
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//radiobalkan.live/radio/live/narodna.mp3:Radio Balkan Narodni
+#DESCRIPTION Radio Balkan Narodni
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//radiobalkan.live/radio/live/zabavna.mp3:Radio Balkan Zabavni
+#DESCRIPTION Radio Balkan Zabavni
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//radiobalkan.live/radio/live/trending.mp3:Radio Balkan Trending
+#DESCRIPTION Radio Balkan Trending
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//belacrkva32.streaming.rs%3a8140/;:Radio Bela Crkva
 #DESCRIPTION Radio Bela Crkva
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//onair.superfm.rs/superfmnis.mp3:Radio Bum 018 Niš
-#DESCRIPTION Radio Bum 018 Niš
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//magnum.web-srbija.net:Radio Magnum Zaječar
 #DESCRIPTION Radio Magnum Zaječar
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s41.myradiostream.com%3a28676/;:Radio RIT Pančevo
@@ -274,8 +242,6 @@
 #DESCRIPTION Bubonja Radio
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//uzice.yunethosting.net%3a8000/stream?type=.flv:Užice - Radio Užice
 #DESCRIPTION Užice - Radio Užice
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.orion.rs.%3a8030/;stream.nsv:Kragujevac - Radio Bravo FM Kragujevac
-#DESCRIPTION Kragujevac - Radio Bravo FM Kragujevac
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//91.221.134.252%3a8002:Kragujevac - Bravo FM
 #DESCRIPTION Kragujevac - Bravo FM
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//195.252.68.166%3a8036/;stream.nsv:Kragujevac - Bravo FM Narodni Kragujevac
@@ -310,10 +276,6 @@
 #DESCRIPTION Krusevac - Antena Krusevac 4560
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//fm.radiokfor.com%3a8090:RADIO K4 96.6 FM
 #DESCRIPTION RADIO K4 96.6 FM
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//shoutcast.netsi.net%3a8400/:Svrljig - Radio Bubamaru Svrljig
-#DESCRIPTION Svrljig - Radio Bubamaru Svrljig
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//217.24.17.31%3a8102/:Kraljevo - *BUM* Radio - Kraljevo Srbija Serbia 64kb Hi-Fi ACM
-#DESCRIPTION Kraljevo - *BUM* Radio - 
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//5.9.25.50%3a9300/;:Radio Bosanka
 #DESCRIPTION Radio Bosanka
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.narodni.hr%3a8059/stream;:Zagreb - Narodni Radio Zagreb
@@ -322,16 +284,12 @@
 #DESCRIPTION Zagreb - Radio 101
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.radiodeejay.hr%3a7002/:Zagreb - Deejay
 #DESCRIPTION Zagreb - Deejay
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//808proxy.contrib.hr/;:Zagreb - Radio 808
-#DESCRIPTION Zagreb - Radio 808
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.antenazagreb.hr%3a8000/:Zagreb - Antena
 #DESCRIPTION Zagreb - Antena
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.antenazagreb.hr%3a8011/;*.mp3:Radio Antena Hit Zagreb
 #DESCRIPTION Radio Antena Hit Zagreb
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.antenazagreb.hr%3a8019/;*.mp3:Radio Antena Zagreb Rock
 #DESCRIPTION Radio Antena Zagreb Rock
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.antenazagreb.hr%3a8011/;:Zagreb - Antena Zagreb - Top 40
-#DESCRIPTION Zagreb - Antena Top 40
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.enterzagreb.hr%3a8023/;*.mp3:Radio Enter Zagreb
 #DESCRIPTION Radio Enter Zagreb
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//161.53.122.184%3a8000/AAC128.aac:Radio Student Zagreb
@@ -380,26 +338,18 @@
 #DESCRIPTION Radio Brač
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//sonic.brziserver.com/8004/stream:Radio Gospić
 #DESCRIPTION Radio Gospić
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//176.9.59.144%3a8084/;:Radio Stubica
-#DESCRIPTION Radio Stubica
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s8.iqstreaming.com%3a8006/;:Prvi Karlovacki Radio
 #DESCRIPTION Prvi Karlovacki Radio
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ec2s.crolive.com.hr%3a2260/stream:Radio Vallis Aurea Požega
 #DESCRIPTION Radio Vallis Aurea Požega
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//c2.hostingcentar.com%3a8011/;:Radio BnM
-#DESCRIPTION Radio BnM
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//azuracast.novi-net.net/radio/8010/radiomax.mp3:Radio Max Maruševac
 #DESCRIPTION Radio Max Maruševac
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//chopin.bizmusic.net/radio/8030/radio.mp3:Radio Megaton Vidovec
 #DESCRIPTION Radio Megaton Vidovec
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//85.17.172.242%3a8040/live.mp3:Gradski Radio Virovitica
-#DESCRIPTION Gradski Radio Virovitica
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s3.iqstreaming.com%3a8002/stream:Radio Ogulin
 #DESCRIPTION Radio Ogulin
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ec2s.crolive.com.hr%3a2415/stream:Radio Drniš
 #DESCRIPTION Radio Drniš
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.antenazadar.hr%3a9002/;:Antena Zadar
-#DESCRIPTION Antena Zadar
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//radioimotski.radioca.st/stream:Radio Imotski
 #DESCRIPTION Radio Imotski
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streamserver.radiokorzo.hr%3a6004/stream:Radio Korzo Rijeka
